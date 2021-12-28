@@ -1,2 +1,4 @@
 /.idea
 test.py
+.DS_Store
+factory/.DS_Store
